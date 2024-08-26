@@ -55,7 +55,7 @@ way 1:
 
 to compare commits, branches, files and more: git diff <-branch name->
 
-to merge branches: git merege <-branch name->
+to merge branches: git merege <-branch name-> (this merges the current branch with <-branch name->)
 
 Way 2:
 pull Request (pr): 
